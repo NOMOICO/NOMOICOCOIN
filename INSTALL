@@ -1,0 +1,9 @@
+Building NOMOICOCOIN
+
+See doc/readme-qt.rst for instructions on building NOMOICOCOIN QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NOMOICOCOIN.
+
+See doc/build-*.txt for instructions on building nomoicocoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of NOMOICOCOIN.
